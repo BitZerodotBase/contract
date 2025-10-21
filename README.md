@@ -44,7 +44,7 @@ This repository contains the **core smart contracts** that power:
 |-----------|----------|-------------|
 | **BitZero Token ($BIT)** | [`0x853c1a7587413262a0a7dc2526a8ad62497a56c0`](https://basescan.org/address/0x853c1a7587413262a0a7dc2526a8ad62497a56c0) | Core ERC-20 token contract |
 | **BitStake** | [`0x1f496658EFC517c58A4aC365157838DC155e0D15`](https://basescan.org/address/0x1f496658EFC517c58A4aC365157838DC155e0D15) | Staking and reward distribution contract |
-| **BitZero DAO** | [`0xdd7BFA32deADbb8d4b1084d8ec2acE883657b1d1`](https://basescan.org/address/0xddBFA32deADbb8d4b1084d8ec2acE883657b1d1) | Governance and treasury contract |
+| **BitZero DAO** | [`0xdd7BFA32deADbb8d4b1084d8ec2acE883657b1d1`](https://basescan.org/address/0xdd7BFA32deADbb8d4b1084d8ec2acE883657b1d1) | Governance and treasury contract |
 
 ---
 
